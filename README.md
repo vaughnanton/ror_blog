@@ -8,3 +8,5 @@ Migrations
 Views with forms, partials, and helpers
 RESTful design
 Adding gems for extra features
+
+You can find the live application by following this link: https://intense-brushlands-63156.herokuapp.com/
