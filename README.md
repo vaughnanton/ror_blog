@@ -1,4 +1,4 @@
-Blogger Tutorial from: http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2
+Blogger Tutorial finished as part of The Odin Project curriculum: http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2
 
 Learning Outcomes:
 Models, Views, and Controllers (MVC)
